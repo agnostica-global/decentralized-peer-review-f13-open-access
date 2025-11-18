@@ -3,16 +3,18 @@
 Welcome! This public repo hosts **all non-confidential outputs** from our Project Catalyst Fund 13 research into a decentralized, Cardano-based peer-review and publishing model.  
 Everything here is released under **CC 0 1.0 Universal** (public-domain dedication) so anyone can read, reuse, or build on the work.
 
-## 🔍 Quick Links
+## 🔍 PDF Reports
 | Type | File / Link |
 |------|-------------|
-| Final Exit Report | [`docs/final-exit-report.pdf`](docs/final-exit-report.pdf) |
-| Functional Requirements | [`docs/functional-requirements.pdf`](docs/functional-requirements.pdf) |
-| Milestone 1 – Literature Review Outcomes | [`docs/milestone1-literature-review.pdf`](docs/milestone1-literature-review.pdf) |
-| Milestone 2 – State of Decentralized Publishing | [`docs/milestone2-platform-survey.pdf`](docs/milestone2-platform-survey.pdf) |
-| Milestone 3 – Towards a Better Peer Review System | [`docs/milestone3-interviews.pdf`](docs/milestone3-interviews.pdf) |
-| Milestone 4 – 12-Month MVP Roadmap | [`docs/mvp-roadmap.pdf`](docs/mvp-roadmap.pdf) |
-| Video playlist (YouTube) | <https://youtu.be/your-playlist-id> |
+- [Final Exit Report - Decentralized Peer-Reviewed Publishing Platform Research.pdf](docs/Final Exit Report - Decentralized Peer-Reviewed Publishing Platform Research.pdf)
+- [Functional Requirements_ Decentralized Peer Review Platform MVP.pdf](docs/Functional Requirements_ Decentralized Peer Review Platform MVP.pdf)
+- [Manuscript 1_ Literature Review Outcomes.pdf](docs/Manuscript 1_ Literature Review Outcomes.pdf)
+- [Manuscript 2_ The State of Decentralized Publishing.pdf](docs/Manuscript 2_ The State of Decentralized Publishing.pdf)
+- [Manuscript 3_ Designing Decentralized Peer Review.pdf](docs/Manuscript 3_ Designing Decentralized Peer Review.pdf)
+- [Milestone 1 - Innovations in Academic Peer Review_ Thematic Analysis of the Literature.pdf](docs/Milestone 1 - Innovations in Academic Peer Review_ Thematic Analysis of the Literature.pdf)
+- [Milestone 2 - The State of Decentralized Publishing 2025.pdf](docs/Milestone 2 - The State of Decentralized Publishing 2025.pdf)
+- [Milestone 3 - Towards a Better Peer Review System.pdf](docs/Milestone 3 - Towards a Better Peer Review System.pdf)
+- [Milestone 4 - 12-Month MVP Roadmap_ Decentralized Peer-Reviewed Publishing on Cardano.pdf](docs/Milestone 4 - 12-Month MVP Roadmap_ Decentralized Peer-Reviewed Publishing on Cardano.pdf)
 
 
 ### Video Presentations
