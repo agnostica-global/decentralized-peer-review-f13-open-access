@@ -28,7 +28,7 @@ Example citation:
 | 📄 Document | Download |
 |------------|----------|
 | Milestone 1 – Innovations in Academic Peer Review: Thematic Analysis of the Literature | [PDF](docs/Milestone 1 - Innovations in Academic Peer Review_ Thematic Analysis of the Literature.pdf) |
-| Conference Manuscript 1 – Literature Review Outcomes | [PDF](docs/Conference Manuscript 1 - Literature Review Outcomes.pdf) |
+| Conference Manuscript 1 – Literature Review Outcomes | [PDF] /docs/Conference Manuscript 1 - Literature Review Outcomes.pdf |
 | Milestone 2 – The State of Decentralized Publishing 2025 | [PDF](docs/Milestone 2 - The State of Decentralized Publishing 2025.pdf) |
 | Conference Manuscript 2 – The State of Decentralized Publishing | [PDF](docs/Conference Manuscript 2 - The State of Decentralized Publishing.pdf) |
 | Milestone 3 – Towards a Better Peer Review System | [PDF](docs/Milestone 3 - Towards a Better Peer Review System.pdf) |
