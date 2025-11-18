@@ -26,16 +26,16 @@ Example citation:
 
 ## 🔍 PDF Reports
 | 📄 Document | Download |
-|------------|----------|
-| Milestone 1 – Innovations in Academic Peer Review: Thematic Analysis of the Literature | [PDF](docs/Milestone 1 - Innovations in Academic Peer Review_ Thematic Analysis of the Literature.pdf) |
-| Conference Manuscript 1 – Literature Review Outcomes | [PDF] /docs/Conference Manuscript 1 - Literature Review Outcomes.pdf |
-| Milestone 2 – The State of Decentralized Publishing 2025 | [PDF](docs/Milestone 2 - The State of Decentralized Publishing 2025.pdf) |
-| Conference Manuscript 2 – The State of Decentralized Publishing | [PDF](docs/Conference Manuscript 2 - The State of Decentralized Publishing.pdf) |
-| Milestone 3 – Towards a Better Peer Review System | [PDF](docs/Milestone 3 - Towards a Better Peer Review System.pdf) |
-| Conference Manuscript 3 – Designing Decentralized Peer Review | [PDF](docs/Conference Manuscript 3 - Designing Decentralized Peer Review.pdf) |
-| Milestone 4 – 12-Month MVP Roadmap: Decentralized Peer-Reviewed Publishing on Cardano | [PDF](docs/Milestone 4 - 12-Month MVP Roadmap_ Decentralized Peer-Reviewed Publishing on Cardano.pdf) |
-| Final Exit Report – Decentralized Peer-Reviewed Publishing Platform Research | [PDF](docs/Final Exit Report - Decentralized Peer-Reviewed Publishing Platform Research.pdf) |
-| Functional Requirements – Decentralized Peer Review Platform MVP | [PDF](docs/Functional Requirements_ Decentralized Peer Review Platform MVP.pdf) |
+|-------------|----------|
+| Milestone 1 – Innovations in Academic Peer Review: Thematic Analysis of the Literature | [PDF](<docs/Milestone 1 - Innovations in Academic Peer Review_ Thematic Analysis of the Literature.pdf>) |
+| Conference Manuscript 1 – Literature Review Outcomes | [PDF](<docs/Conference Manuscript 1 - Literature Review Outcomes.pdf>) |
+| Milestone 2 – The State of Decentralized Publishing 2025 | [PDF](<docs/Milestone 2 - The State of Decentralized Publishing 2025.pdf>) |
+| Conference Manuscript 2 – The State of Decentralized Publishing | [PDF](<docs/Conference Manuscript 2 - The State of Decentralized Publishing.pdf>) |
+| Milestone 3 – Towards a Better Peer Review System | [PDF](<docs/Milestone 3 - Towards a Better Peer Review System.pdf>) |
+| Conference Manuscript 3 – Designing Decentralized Peer Review | [PDF](<docs/Conference Manuscript 3 - Designing Decentralized Peer Review.pdf>) |
+| Milestone 4 – 12-Month MVP Roadmap: Decentralized Peer-Reviewed Publishing on Cardano | [PDF](<docs/Milestone 4 - 12-Month MVP Roadmap_ Decentralized Peer-Reviewed Publishing on Cardano.pdf>) |
+| Final Exit Report – Decentralized Peer-Reviewed Publishing Platform Research | [PDF](<docs/Final Exit Report - Decentralized Peer-Reviewed Publishing Platform Research.pdf>) |
+| Functional Requirements – Decentralized Peer Review Platform MVP | [PDF](<docs/Functional Requirements_ Decentralized Peer Review Platform MVP.pdf>) |
 
 ---
 
