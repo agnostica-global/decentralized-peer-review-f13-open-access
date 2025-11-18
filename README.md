@@ -27,7 +27,7 @@ Example citation:
 ## 🔍 PDF Reports
 | 📄 Document | Download |
 |-------------|----------|
-| Milestone 1 – Innovations in Academic Peer Review | [PDF](docs/Milestone%201%20-%20Innovations%20in%20Academic%20Peer%20Review_%20Thematic%20Analysis%20of%20the%20Literature.pdf) |
+| Milestone 1 – Innovations in Academic Peer Review | [PDF] docs/Conference Manuscript 1 - Literature Review Outcomes.pdf |
 | Conference Manuscript 1 – Literature Review Outcomes | [PDF](docs/Conference%20Manuscript%201%20-%20Literature%20Review%20Outcomes.pdf) |
 | Milestone 2 – The State of Decentralized Publishing 2025 | [PDF](docs/Milestone%202%20-%20The%20State%20of%20Decentralized%20Publishing%202025.pdf) |
 | Conference Manuscript 2 – The State of Decentralized Publishing | [PDF](docs/Conference%20Manuscript%202%20-%20The%20State%20of%20Decentralized%20Publishing.pdf) |
