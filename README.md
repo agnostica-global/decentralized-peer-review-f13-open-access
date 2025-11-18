@@ -4,18 +4,14 @@ Welcome! This public repo hosts **all non-confidential outputs** from our Projec
 Everything here is released under **CC 0 1.0 Universal** (public-domain dedication) so anyone can read, reuse, or build on the work.
 
 ## 🔍 PDF Reports
-| Type | File / Link |
-|------|-------------|
-- [Final Exit Report - Decentralized Peer-Reviewed Publishing Platform Research.pdf](docs/Final Exit Report - Decentralized Peer-Reviewed Publishing Platform Research.pdf)
-- [Functional Requirements_ Decentralized Peer Review Platform MVP.pdf](docs/Functional Requirements_ Decentralized Peer Review Platform MVP.pdf)
-- [Manuscript 1_ Literature Review Outcomes.pdf](docs/Manuscript 1_ Literature Review Outcomes.pdf)
-- [Manuscript 2_ The State of Decentralized Publishing.pdf](docs/Manuscript 2_ The State of Decentralized Publishing.pdf)
-- [Manuscript 3_ Designing Decentralized Peer Review.pdf](docs/Manuscript 3_ Designing Decentralized Peer Review.pdf)
-- [Milestone 1 - Innovations in Academic Peer Review_ Thematic Analysis of the Literature.pdf](docs/Milestone 1 - Innovations in Academic Peer Review_ Thematic Analysis of the Literature.pdf)
-- [Milestone 2 - The State of Decentralized Publishing 2025.pdf](docs/Milestone 2 - The State of Decentralized Publishing 2025.pdf)
-- [Milestone 3 - Towards a Better Peer Review System.pdf](docs/Milestone 3 - Towards a Better Peer Review System.pdf)
-- [Milestone 4 - 12-Month MVP Roadmap_ Decentralized Peer-Reviewed Publishing on Cardano.pdf](docs/Milestone 4 - 12-Month MVP Roadmap_ Decentralized Peer-Reviewed Publishing on Cardano.pdf)
-
+| 📄 Document | Download |
+|-------------|----------|
+| Milestone 1 – Literature Review | [PDF](docs/milestone1-literature-review.pdf) |
+| Milestone 2 – Decentralized Platform Survey | [PDF](docs/milestone2-platform-survey.pdf) |
+| Milestone 3 – Academic Interview Findings | [PDF](docs/milestone3-interviews.pdf) |
+| 12-Month MVP Roadmap | [PDF](docs/mvp-roadmap.pdf) |
+| Functional Requirements | [PDF](docs/functional-requirements.pdf) |
+| Final Exit Report | [PDF](docs/final-exit-report.pdf) |
 
 ### Video Presentations
 - Milestone summary 1: (https://drive.google.com/file/d/1E1JPSC3TXrtnPONIaTPN0I4pXSVlloN3/view?usp=drive_link)
