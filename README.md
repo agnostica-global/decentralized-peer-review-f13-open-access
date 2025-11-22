@@ -45,7 +45,7 @@ Example citation:
 | Milestone 1 Summary | [View](https://drive.google.com/file/d/1E1JPSC3TXrtnPONIaTPN0I4pXSVlloN3/view?usp=drive_link) |
 | Milestone 2 Summary | [View](https://drive.google.com/file/d/1IU3oeoOom5jLqDN6wEBqgKifIJaZBY_p/view?usp=drive_link) |
 | Milestone 3 Summary | [View](https://drive.google.com/file/d/1LeIHzqGGTTCKdWwF-OMZ1Twsp_8Jeyle/view?usp=drive_link) |
-| Milestone 4 Summary | [View](https://drive.google.com/file/d/1GtO2mSE2QZlgXvi2BN6h0tX6r3ouRdYP/view?usp=drive_link) |
+| Milestone 4 Summary | [View](https://vimeo.com/1139565149) |
 
 ---
 
